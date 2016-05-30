@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_cadastro_foco.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_cadastro_foco.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_cadastro_visita.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_cadastro_visita.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/item_list_visita.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/item_list_visita.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_load.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_load.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_focos_cadastrados.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_focos_cadastrados.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/item_foto_grid.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/item_foto_grid.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/activity_gerenciador_visitas.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/layout/activity_gerenciador_visitas.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    }
+]

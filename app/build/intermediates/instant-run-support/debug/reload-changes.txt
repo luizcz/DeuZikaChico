@@ -1,0 +1,16 @@
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/GerenciadorVisitas$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$integer$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$styleable$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/adapters/FocoAdapter$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/MainActivity$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$id$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/CadastroVisita$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/utils/Loading$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$style$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$string$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/adapters/VisitaAdapter$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/FocosCadastrados$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$menu$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/CadastroFoco$override.class
+CHANGED,/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/br/edu/ufcg/lsi/deuzicachico/R$layout$override.class

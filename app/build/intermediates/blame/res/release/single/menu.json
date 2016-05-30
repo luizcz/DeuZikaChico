@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/release/menu/gerenciador_visitas.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/menu/gerenciador_visitas.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/release/menu/main.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/release/menu/focos_cadastrados.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/menu/focos_cadastrados.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/release/menu/cadastro_visita.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/menu/cadastro_visita.xml"
+    },
+    {
+        "merged": "/home/luiz/StudioProjects/DeuZicaChico/app/build/intermediates/res/merged/release/menu/cadastro_foco.xml",
+        "source": "/home/luiz/StudioProjects/DeuZicaChico/app/src/main/res/menu/cadastro_foco.xml"
+    }
+]

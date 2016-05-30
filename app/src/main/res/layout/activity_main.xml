@@ -1,0 +1,57 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="br.edu.ufcg.lsi.deuzicachico.MainActivity" 
+    android:orientation="vertical"
+    android:gravity="center"
+    android:weightSum="10">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/icon"
+        android:layout_weight="3"/>
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/nome"
+        android:layout_marginBottom="30dp"
+        android:layout_weight="1"/>
+    
+
+
+    <ImageButton 
+        android:id="@+id/botao_denuncia_foco"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/denunciar_foco"
+        android:contentDescription="@string/denunciar_foco"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="2"/>
+    
+    <ImageButton 
+        android:id="@+id/botao_visitas"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/visita_agente"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="2"/>
+    
+    <ImageButton
+        android:id="@+id/botao_focos"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:background="@drawable/focos"
+        android:layout_marginBottom="10dp"
+        android:layout_weight="2" />
+    
+</LinearLayout>

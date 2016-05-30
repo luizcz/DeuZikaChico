@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DeuZicaChico</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_cadastro_foco">CadastroFoco</string>
+    <string name="denunciar_foco">Denunciar foco de dengue</string>
+    <string name="obeservacao">Observações:</string>
+    <string name="obeservacoes">Observações</string>
+    <string name="salvar_visita">Salvar Visita</string>
+    <string name="enviar_denuncia">Enviar Denúncia</string>
+    <string name="imagem_do_foco">Imagem do foco</string>
+    <string name="title_activity_cadastro_visita">Cadastro da visita de um agente de saúde</string>
+    <string name="nome_agente">Nome do agente de saúde</string>
+    <string name="data_visita">Data da visita</string>
+    <string name="title_activity_gerenciador_visitas">Gerenciador de Visitas</string>
+    <string name="nova_visita">Nova Visita</string>
+    <string name="foto">Foto</string>
+    <string name="title_activity_focos_cadastrados">Focos Cadastrados</string>
+    <string name="message">Carregando</string>
+
+
+</resources>
